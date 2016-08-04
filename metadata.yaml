@@ -1,0 +1,35 @@
+_repo: The-Memoirs-of-Mr.-Charles-J.-Yellowplush_2796
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+description: 'Also titled: The Yellowplush papers.'
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Household employees -- Fiction'
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcc 'PR'
+- !lcsh 'Humorous stories'
+- GITenberg
+tableOfContents: Miss Shum's husband -- The amours of Mr. Deuceace -- Skimmings from
+  "The diary of George IV" -- Foring parts -- Mr. Deauceace at Paris -- Mr. Yellowplush's
+  ajew -- Epistles to the literati.
+title: The Memoirs of Mr. Charles J. Yellowplush
+url: http://www.gutenberg.org/ebooks/2796
